@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Programs\Trex\bin\Debug\net6.0\Trex.exe
+C:\Users\ACER\Desktop\Programs\Trex\bin\Debug\net6.0\Trex.deps.json
+C:\Users\ACER\Desktop\Programs\Trex\bin\Debug\net6.0\Trex.runtimeconfig.json
+C:\Users\ACER\Desktop\Programs\Trex\bin\Debug\net6.0\Trex.dll
+C:\Users\ACER\Desktop\Programs\Trex\bin\Debug\net6.0\Trex.pdb
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.dll
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\refint\Trex.dll
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.pdb
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\Trex.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Programs\Trex\obj\Debug\net6.0\ref\Trex.dll
